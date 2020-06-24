@@ -1,1 +1,1 @@
-deno run -A --unstable dank.ts
+deno run --allow-env --allow-read --allow-write --allow-plugin --unstable dank.ts
