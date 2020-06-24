@@ -3,7 +3,8 @@ import { WebView } from "https://deno.land/x/webview/mod.ts";
 let html = `
 	<html>
 		<body>
-			<h1>Hello World!</h1>
+			<h1>Hello friends!</h1>
+			<button>Ass!</button>
 		</body>
 	</html>
 `;
